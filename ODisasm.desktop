@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ODisasm
+Comment=Multi-Arch Disassembler
+Exec=ODisasm
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OExploit;
